@@ -1,0 +1,51 @@
+{
+  "name": "FontLet",
+  "description": "A package manager for fonts bringing latest and greatest libre fonts to your desktop ",
+  "version": "0.0.29-alpha",
+  "announcement": null,
+  "fonts": [
+    {
+      "id": "1",
+      "familyName": "Abhaya Libre",
+      "version": "1.060",
+      "foundry": "mooniak",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/abhaya-libre.svg",
+      "fontStyles": [
+        {
+          "styleName": "Regular",
+          "fontUrl": "https://github.com/mooniak/abhaya-libre-font/raw/master/fonts/ttf/AbhayaLibre-Regular.ttf"
+        },
+        {
+          "styleName": "Bold",
+          "fontUrl": "https://github.com/mooniak/abhaya-libre-font/raw/master/fonts/ttf/AbhayaLibre-Bold.ttf"
+        },
+        {
+          "styleName": "ExtraBold",
+          "fontUrl": "https://github.com/mooniak/abhaya-libre-font/raw/master/fonts/ttf/AbhayaLibre-ExtraBold.ttf"
+        },
+        {
+          "styleName": "Medium",
+          "fontUrl": "https://github.com/mooniak/abhaya-libre-font/raw/master/fonts/ttf/AbhayaLibre-Medium.ttf"
+        },
+        {
+          "styleName": "SemiBold",
+          "fontUrl": "https://github.com/mooniak/abhaya-libre-font/raw/master/fonts/ttf/AbhayaLibre-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "familyName": "GalleALPHA",
+      "version": "0.050",
+      "foundry": "mooniak",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/galle-alpha.svg",
+      "fontStyles": [
+        {
+          "styleName": "Regular",
+          "fontUrl": "https://github.com/mooniak/galle-fonts/raw/ALPHA/fonts/ttf/GalleALPHA-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "Sat Oct 13 2018 18:58:22 GMT+0530"
+}
