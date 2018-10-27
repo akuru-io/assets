@@ -9,7 +9,7 @@
       "familyName": "Abhaya Libre",
       "version": "1.060",
       "foundry": "mooniak",
-      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/abhaya-libre.svg",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/abhaya-libre.svg?sanitize=true",
       "fontStyles": [
         {
           "styleName": "Regular",
@@ -38,7 +38,7 @@
       "familyName": "GalleALPHA",
       "version": "0.050",
       "foundry": "mooniak",
-      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/galle-alpha.svg",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/galle-alpha.svg?sanitize=true",
       "fontStyles": [
         {
           "styleName": "Regular",
