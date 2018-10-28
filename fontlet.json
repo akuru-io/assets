@@ -6,6 +6,64 @@
   "fonts": [
     {
       "id": "1",
+      "familyName": "Yaldevi",
+      "version": "1.060",
+      "foundry": "mooniak",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/yaldevi.svg?sanitize=true",
+      "fontStyles": [
+        {
+          "styleName": "Regular",
+          "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Regular.ttf"
+        },
+        {
+          "styleName": "Bold",
+          "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Bold.ttf"
+        },
+        {
+          "styleName": "ExtraBold",
+          "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-ExtraBold.ttf"
+        },
+        {
+          "styleName": "Medium",
+          "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Medium.ttf"
+        },
+        {
+          "styleName": "SemiBold",
+          "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "familyName": "Post No Bills",
+      "version": "1.220",
+      "foundry": "mooniak",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/post-no-bills.svg?sanitize=true",
+      "fontStyles": [
+        {
+          "styleName": "Regular",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-Regular.ttf"
+        },
+        {
+          "styleName": "Bold",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-Bold.ttf"
+        },
+        {
+          "styleName": "ExtraBold",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-ExtraBold.ttf"
+        },
+        {
+          "styleName": "Medium",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-Medium.ttf"
+        },
+        {
+          "styleName": "SemiBold",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "id": "3",
       "familyName": "Abhaya Libre",
       "version": "1.060",
       "foundry": "mooniak",
@@ -34,7 +92,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "4",
       "familyName": "GalleALPHA",
       "version": "0.050",
       "foundry": "mooniak",
@@ -45,7 +103,36 @@
           "fontUrl": "https://github.com/mooniak/galle-fonts/raw/ALPHA/fonts/ttf/GalleALPHA-Regular.ttf"
         }
       ]
+    },
+    {
+      "id": "3",
+      "familyName": "Gemunu Libre",
+      "version": "1.060",
+      "foundry": "mooniak",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/gemunu-libre.svg?sanitize=true",
+      "fontStyles": [
+        {
+          "styleName": "Regular",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-Regular.ttf"
+        },
+        {
+          "styleName": "Bold",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-Bold.ttf"
+        },
+        {
+          "styleName": "ExtraBold",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-ExtraBold.ttf"
+        },
+        {
+          "styleName": "Medium",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-Medium.ttf"
+        },
+        {
+          "styleName": "SemiBold",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-SemiBold.ttf"
+        }
+      ]
     }
   ],
-  "lastUpdated": "Sat Oct 13 2018 18:58:22 GMT+0530"
+  "lastUpdated": "Sun Oct 28 2018 11:20:22 GMT+0530"
 }
