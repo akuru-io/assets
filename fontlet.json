@@ -41,24 +41,28 @@
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/post-no-bills.svg?sanitize=true",
       "fontStyles": [
         {
+          "styleName": "Light",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/dev/fonts/ttf/StickNoBills-Light.ttf"
+        },
+        {
           "styleName": "Regular",
-          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-Regular.ttf"
-        },
-        {
-          "styleName": "Bold",
-          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-Bold.ttf"
-        },
-        {
-          "styleName": "ExtraBold",
-          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-ExtraBold.ttf"
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/dev/fonts/ttf/StickNoBills-Regular.ttf"
         },
         {
           "styleName": "Medium",
-          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-Medium.ttf"
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/dev/fonts/ttf/StickNoBills-Medium.ttf"
         },
         {
           "styleName": "SemiBold",
-          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/master/fonts/ttf/AbhayaLibre-SemiBold.ttf"
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/dev/fonts/ttf/StickNoBills-SemiBold.ttf"
+        },
+        {
+          "styleName": "Bold",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/dev/fonts/ttf/StickNoBills-Bold.ttf"
+        },
+        {
+          "styleName": "ExtraBold",
+          "fontUrl": "https://github.com/mooniak/post-no-bills-font/raw/dev/fonts/ttf/StickNoBills-ExtraBold.ttf"
         }
       ]
     },
@@ -112,8 +116,20 @@
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/gemunu-libre.svg?sanitize=true",
       "fontStyles": [
         {
+          "styleName": "Light",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-Light.ttf"
+        },
+        {
           "styleName": "Regular",
           "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-Regular.ttf"
+        },
+        {
+          "styleName": "Medium",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-Mediu.ttf"
+        },
+        {
+          "styleName": "SemiBold",
+          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-SemiBold.ttf"
         },
         {
           "styleName": "Bold",
@@ -122,14 +138,6 @@
         {
           "styleName": "ExtraBold",
           "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-ExtraBold.ttf"
-        },
-        {
-          "styleName": "Medium",
-          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-Medium.ttf"
-        },
-        {
-          "styleName": "SemiBold",
-          "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-SemiBold.ttf"
         }
       ]
     }
