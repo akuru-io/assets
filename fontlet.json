@@ -3,17 +3,25 @@
   "description": "A package manager for fonts bringing latest and greatest libre fonts to your desktop ",
   "version": "0.0.29-alpha",
   "announcement": null,
-  "fonts": [
+  "fontFamilies": [
     {
-      "id": "1",
+      "uniqueID": "1",
       "familyName": "Yaldevi",
+      "designers": "",
+      "description": "",
+      "dateFirstPublished": "",
+      "license": "OFL",
       "version": "1.060",
       "foundry": "mooniak",
+      "issuetrackerURL": "",
+      "sourceURL": "",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/yaldevi.svg?sanitize=true",
-      "fontStyles": [
+      "beta": "false",
+      "free": "true",
+      "fonts": [
         {
           "styleName": "Regular",
-          "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Regular.ttf"
+          "fontUrl": "https://github.com/mooniak/yaldevi-fonts/raw/master/fonts/ttf/Yaldevi-Regular.ttf",
         },
         {
           "styleName": "Bold",
@@ -34,10 +42,11 @@
       ]
     },
     {
-      "id": "2",
+      "uniqueID": "2",
       "familyName": "Post No Bills",
       "version": "1.220",
       "foundry": "mooniak",
+      "license": "OFL",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/post-no-bills.svg?sanitize=true",
       "fontStyles": [
         {
@@ -67,9 +76,10 @@
       ]
     },
     {
-      "id": "3",
+      "uniqueID": "3",
       "familyName": "Abhaya Libre",
       "version": "1.060",
+      "license": "OFL",
       "foundry": "mooniak",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/abhaya-libre.svg?sanitize=true",
       "fontStyles": [
@@ -96,9 +106,10 @@
       ]
     },
     {
-      "id": "4",
+      "uniqueID": "4",
       "familyName": "GalleALPHA",
       "version": "0.050",
+      "license": "OFL",
       "foundry": "mooniak",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/galle-alpha.svg?sanitize=true",
       "fontStyles": [
@@ -109,9 +120,10 @@
       ]
     },
     {
-      "id": "3",
+      "uniqueID": "3",
       "familyName": "Gemunu Libre",
       "version": "1.060",
+      "license": "OFL",
       "foundry": "mooniak",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/gemunu-libre.svg?sanitize=true",
       "fontStyles": [
