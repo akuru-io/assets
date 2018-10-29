@@ -3,7 +3,6 @@
   "description": "A package manager for fonts bringing latest and greatest libre fonts to your desktop ",
   "version": "0.0.29-alpha",
   "announcements": null,
-  // "announcements": [{ text: "Put anouncement you need to put here!", href: "Put the link here" }]
   "fonts": [
     {
       "id": "1",
