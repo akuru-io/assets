@@ -7,7 +7,7 @@
     {
       "id": "1",
       "familyName": "Yaldevi",
-      "version": "1.040",
+      "version": "1.060",
       "foundry": "mooniak",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/yaldevi.svg?sanitize=true",
       "fontStyles": [
@@ -98,7 +98,7 @@
     {
       "id": "4",
       "familyName": "GalleALPHA",
-      "version": "0.050",
+      "version": "0.050; alpha",
       "foundry": "mooniak",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/galle-alpha.svg?sanitize=true",
       "fontStyles": [
@@ -138,6 +138,19 @@
         {
           "styleName": "ExtraBold",
           "fontUrl": "https://github.com/mooniak/gemunu-libre-font/raw/master/fonts/ttf/GemunuLibre-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "familyName": "KaputaALPHA",
+      "version": "2.910; alpha",
+      "foundry": "mooniak",
+      "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/galle-alpha.svg?sanitize=true",
+      "fontStyles": [
+        {
+          "styleName": "Regular",
+          "fontUrl": "https://github.com/mooniak/kaputa-font/raw/dev/fonts/ttf/Kaputa-Regular.ttf"
         }
       ]
     }
