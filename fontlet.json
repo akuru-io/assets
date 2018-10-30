@@ -7,7 +7,7 @@
     {
       "id": "1",
       "familyName": "Yaldevi",
-      "version": "1.060",
+      "version": "1.040",
       "foundry": "mooniak",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/yaldevi.svg?sanitize=true",
       "fontStyles": [
@@ -111,7 +111,7 @@
     {
       "id": "5",
       "familyName": "Gemunu Libre",
-      "version": "1.060",
+      "version": "1.001",
       "foundry": "mooniak",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/gemunu-libre.svg?sanitize=true",
       "fontStyles": [
