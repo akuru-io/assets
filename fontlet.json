@@ -7,8 +7,13 @@
     {
       "id": "1",
       "familyName": "Yaldevi",
+      "description": "",
+      "license": "OFL",
+      "designers": "",
       "version": "1.060",
       "foundry": "mooniak",
+      "issuetrackerURL": "",
+      "sourceURL": "",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/yaldevi.svg?sanitize=true",
       "fontStyles": [
         {
@@ -39,8 +44,13 @@
     {
       "id": "2",
       "familyName": "Post No Bills",
+      "description": "",
+      "license": "OFL",
+      "designers": "",
       "version": "1.220",
       "foundry": "mooniak",
+      "issuetrackerURL": "",
+      "sourceURL": "",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/post-no-bills.svg?sanitize=true",
       "fontStyles": [
         {
@@ -75,8 +85,13 @@
     {
       "id": "3",
       "familyName": "Abhaya Libre",
+      "description": "",
+      "license": "OFL",
+      "designers": "",
       "version": "1.060",
       "foundry": "mooniak",
+      "issuetrackerURL": "",
+      "sourceURL": "",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/abhaya-libre.svg?sanitize=true",
       "fontStyles": [
         {
@@ -107,8 +122,13 @@
     {
       "id": "4",
       "familyName": "GalleALPHA",
+      "description": "",
+      "license": "OFL",
+      "designers": "",
       "version": "0.050; alpha",
       "foundry": "mooniak",
+      "issuetrackerURL": "",
+      "sourceURL": "",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/galle-alpha.svg?sanitize=true",
       "fontStyles": [
         {
@@ -123,8 +143,13 @@
     {
       "id": "5",
       "familyName": "Gemunu Libre",
+      "description": "",
+      "license": "OFL",
+      "designers": "",
       "version": "1.001",
       "foundry": "mooniak",
+      "issuetrackerURL": "",
+      "sourceURL": "",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/gemunu-libre.svg?sanitize=true",
       "fontStyles": [
         {
@@ -159,8 +184,13 @@
     {
       "id": "6",
       "familyName": "KaputaALPHA",
+      "description": "",
+      "license": "GPL-3.0-or-later",
+      "designers": "",
       "version": "2.910; alpha",
       "foundry": "mooniak",
+      "issuetrackerURL": "",
+      "sourceURL": "",
       "coverImageUrl": "https://raw.githubusercontent.com/fontlet/assets/master/resources/covers/kaputaALPHA.svg?sanitize=true",
       "fontStyles": [
         {
