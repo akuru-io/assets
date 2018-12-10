@@ -38,6 +38,7 @@
         }
       ],
       "tags": [],
+      "private": true,
       "publishedAt": "Sun Oct 28 2018 12:47:40 GMT+0530",
       "updatedAt": "Sun Oct 28 2018 12:47:40 GMT+0530"
     },
@@ -79,6 +80,7 @@
         }
       ],
       "tags": [],
+      "private": false,
       "publishedAt": "Sun Oct 28 2018 12:47:40 GMT+0530",
       "updatedAt": "Sun Oct 28 2018 12:47:40 GMT+0530"
     },
@@ -116,6 +118,7 @@
         }
       ],
       "tags": [],
+      "private": false,
       "publishedAt": "Sun Oct 28 2018 12:47:40 GMT+0530",
       "updatedAt": "Sun Oct 28 2018 12:47:40 GMT+0530"
     },
@@ -137,6 +140,7 @@
         }
       ],
       "tags": [],
+      "private": false,
       "publishedAt": "Sun Oct 28 2018 12:47:40 GMT+0530",
       "updatedAt": "Sun Oct 28 2018 12:47:40 GMT+0530"
     },
@@ -178,6 +182,7 @@
         }
       ],
       "tags": [],
+      "private": true,
       "publishedAt": "Sun Oct 28 2018 12:47:40 GMT+0530",
       "updatedAt": "Sun Oct 28 2018 12:47:40 GMT+0530"
     },
@@ -199,6 +204,7 @@
         }
       ],
       "tags": [],
+      "private": true,
       "publishedAt": "Sun Oct 28 2018 12:47:40 GMT+0530",
       "updatedAt": "Sun Oct 28 2018 12:47:40 GMT+0530"
     }
